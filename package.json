@@ -1,0 +1,25 @@
+{
+  "name": "Xinda's blog",
+  "version": "1.0.0",
+  "description": "欲买桂花同载酒,终不似,少年游",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bianxinda/my_nodejs_blog.git"
+  },
+  "author": "Xinda Bian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bianxinda/my_nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/bianxinda/my_nodejs_blog#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "marked": "^0.3.6",
+    "moment": "^2.18.1"
+  }
+}
